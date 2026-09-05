@@ -99,7 +99,7 @@ const LetterEnvelope = ({ nextSlide }) => {
                     className="mt-10 text-right"
                   >
                     <p className="text-gray-500 font-serif text-lg italic">Premathoo,</p>
-                    <p className="text-gray-700 font-serif text-2xl mt-2 font-bold"> MC❤️</p>
+                    <p className="text-gray-700 font-serif text-2xl mt-2 font-bold"> Kannamma❤️</p>
                   </motion.div>
                 </div>
                 

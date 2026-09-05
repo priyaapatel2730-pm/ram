@@ -15,7 +15,7 @@ export const content = {
     "You have an incredible way of making me smile, even on the days when I don't feel like smiling. That is a gift I will always treasure.",
     " I can share anything with you without fear of being judged, and that kind of trust is something truly rare. Thank you for always listening and understanding",
     "Whenever life feels overwhelming, knowing that you're by my side makes everything feel a little easier. Your presence alone gives me peace.",
-    "If i loose you , i loose everything not because you are everything i have but because you mean everything to me.you've become such an integral part of my life that imagining a futu without you is impossible and that is when i know how much you mean to me.",
+    "If i loose you , i loose everything not because you are everything i have but because you mean everything to me.you've become such an integral part of my life that imagining a future without you is impossible and that is when i know how much you mean to me.",
     "In a thousand lifetimes , in all different versions of the world and realities, I would still find you and love you over and over again , whereever life takes us, I know i know i want to walk it with you and am so proud to be your girl.my heart is always been yours and will always be.",
     "You make me feel safe in a world that can sometimes feel uncertain, and that comfort means more to me than words can ever express.",
     "I may not say it often, but I notice every little thing you do for me. Your love and care never go unnoticed.",
